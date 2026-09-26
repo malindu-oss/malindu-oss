@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👨‍💻 Hi, I'm Malindu
 ![Software Engineering GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Software+Engineer+student+in+icet;Open+Source+Contributor;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Software+Engineer+student+at+ICET;Open+Source+Contributor;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 ---
 
