@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/malinduprabashwara/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://yourportfolio.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100095151167299)
 
 ---
 
